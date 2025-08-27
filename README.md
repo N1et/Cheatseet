@@ -9,4 +9,4 @@ You can use obsidian to read this notes locally.
 
 ### Use with obsidian and raycast (MacOS)
 I use raycast with obsidian extension with this repository, this makes my life better and easy becase i can search any command using raycast.
-<img width="1872" height="1168" alt="image" src="https://github.com/user-attachments/assets/04f63abd-d19d-417b-83d1-7d06c497ff4f" />.
+<img width="2948" height="1880" alt="image" src="https://github.com/user-attachments/assets/378a3689-be93-4fa9-91d2-f3ebe3fea9db" />
