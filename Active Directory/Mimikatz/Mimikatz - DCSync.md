@@ -1,0 +1,3 @@
+```
+lsadump::dcsync /user:<user>
+```

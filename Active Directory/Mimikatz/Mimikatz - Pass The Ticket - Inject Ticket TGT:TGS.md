@@ -1,0 +1,3 @@
+```
+kerberos::ptt <file.kirbi>
+```
